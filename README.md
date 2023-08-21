@@ -7,12 +7,6 @@ Welcome to our Ecommerce website documentation! This guide will walk you through
 Live URL
 You can access the live version of our website at: https://enthusiastic-onesies-seal.cyclic.cloud/
 
-Admin Access
-For accessing admin functionalities, you can use the following credentials:
-
-Email: kk47@gmail.com
-Password: kk47
-
 ## User Authentication
 
 - **Sign Up:** Create an account with your name, email, and password.
@@ -38,7 +32,9 @@ Forgot Password: Reset your password using the secret key provided during regist
 - **Delete Product:** Remove products from the system.
 
 ## Admin Panel
-
+- Admins have access to a user-friendly panel where he can create and delete catagories and products.
+Email: kk47@gmail.com
+Password: kk47
 - Admins have access to a user-friendly panel where he can create and delete catagories and products.
 
 ## Search and Filtering

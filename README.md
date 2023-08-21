@@ -4,6 +4,15 @@
 
 Welcome to our Ecommerce website documentation! This guide will walk you through the key features and functionalities of our platform.
 
+Live URL
+You can access the live version of our website at: https://enthusiastic-onesies-seal.cyclic.cloud/
+
+Admin Access
+For accessing admin functionalities, you can use the following credentials:
+
+Email: kk47@gmail.com
+Password: kk47
+
 ## User Authentication
 
 - **Sign Up:** Create an account with your name, email, and password.

@@ -5,7 +5,7 @@
 Welcome to our Ecommerce website documentation! This guide will walk you through the key features and functionalities of our platform.
 
 Live URL
-You can access the live version of our website at: https://enthusiastic-onesies-seal.cyclic.cloud/
+You can access the live version of our website at:https://sore-rose-scarab-boot.cyclic.app/
 
 ## User Authentication
 
